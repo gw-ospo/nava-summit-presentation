@@ -27,3 +27,36 @@
   margin-top: 0.2em;
 }
 .reveal p:has(> img + .caption) img { display: block; margin: 0 auto; }
+
+/* Footer: blend into the slide instead of lexis's black bar. */
+.reveal.reveal .footer {
+  background-color: transparent;
+  color: #5b6773;
+  font-size: calc(15 * var(--lexis-chrome-px));
+  bottom: calc(var(--lexis-lb-y) + 24 * var(--lexis-chrome-px));
+}
+.reveal.reveal .footer p,
+.reveal.reveal .footer span { color: inherit; }
+.reveal.reveal .footer a {
+  color: #00798c;
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+.reveal.reveal .footer a:hover { color: #2e4057; }
+
+/* Dark (inverse) slides: light footer text and links. */
+.reveal.reveal:has(section.present.inverse) .footer { color: #c9d1d9; }
+.reveal.reveal:has(section.present.inverse) .footer a { color: #8fd3e0; }
+.reveal.reveal:has(section.present.inverse) .footer a:hover { color: #fff; }
+.reveal.reveal:has(section.present.inverse) .slide-number { color: #c9d1d9; }
+
+/* Cards: lists indent under their headings/labels instead of hugging the edge. */
+.reveal .card h3,
+.reveal .card .h3 { margin-top: 0; }
+.reveal .card ul {
+  margin: 0.2em 0 0.7em 0;
+  padding-left: 1.4em;
+  list-style-position: outside;
+}
+.reveal .card ul li { margin: 0.1em 0; }
+.reveal .card p { margin: 0.5em 0 0.2em; }

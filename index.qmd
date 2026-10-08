@@ -15,7 +15,7 @@ execute:
   echo: false
   warning: false
   message: false
-footer: "Join The Revolution: Open Source in Academia © 2026 by David Lippert is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+footer: "[Join the Revolution: Open Source in Academia](https://gw-ospo.github.io/nava-summit-presentation/) © 2026 by [David Lippert](https://github.com/david-lippert) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
 ---
 
 {{< bg-color "#2e4057" >}}
@@ -38,11 +38,11 @@ footer: "Join The Revolution: Open Source in Academia © 2026 by David Lippert i
 {{< inverse >}}
 {{< middle >}}
 
-# 01 Introduction
+# 01 OSPO Overview
 
 ---
 
-[01. Introduction]{.kicker}
+[01. OSPO Overview]{.kicker}
 
 # GW Open Source Program Office (OSPO)
 
@@ -63,6 +63,8 @@ footer: "Join The Revolution: Open Source in Academia © 2026 by David Lippert i
 ::::
 
 ---
+
+[01. OSPO Overview]{.kicker}
 
 # GW OSPO Focus
 
@@ -96,7 +98,7 @@ Cross discipline GW connections
 
 ---
 
-[01. Introduction]{.kicker}
+[01. OSPO Overview]{.kicker}
 
 # GW OSPO Events
 
@@ -115,7 +117,8 @@ Cross discipline GW connections
 ::::
 
 ---
-[01. Introduction]{.kicker}
+
+[01. OSPO Overview]{.kicker}
 
 # GW OSPO Services
 
@@ -134,7 +137,7 @@ Cross discipline GW connections
 
 ---
 
-[01. Introduction]{.kicker}
+[01. OSPO Overview]{.kicker}
 
 # GW OSPO Initiatives
 
