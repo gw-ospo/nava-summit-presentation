@@ -19,3 +19,11 @@
   padding: 0.6em 1em;
 }
 .reveal .caption { font-size: 50%; opacity: 0.7; }
+
+/* Caption sits directly under the image above it. */
+.reveal img + .caption {
+  display: block;
+  text-align: center;
+  margin-top: 0.2em;
+}
+.reveal p:has(> img + .caption) img { display: block; margin: 0 auto; }

@@ -38,9 +38,7 @@ footer: "Join The Revolution: Open Source in Academia © 2026 by David Lippert i
 {{< inverse >}}
 {{< middle >}}
 
-# 01
-
-# Introduction
+# 01 Introduction
 
 ---
 
@@ -60,7 +58,6 @@ footer: "Join The Revolution: Open Source in Academia © 2026 by David Lippert i
 :::
 ::: {}
 ![](images/ospo-workshop.png){fig-align="center" width="95%"}
-
 [OSPO Research Workshop (Summer 2024)]{.caption}
 :::
 ::::
@@ -105,18 +102,44 @@ Cross discipline GW connections
 
 :::: {.two-col}
 ::: {.small}
-**Events**
 
 - GW OSCON - March 31-April 1 2027
 - GW Coders Lunch & Learn - Wed 11:30am
 - Hackathons
 - Halloween Robot Challenge
 
-**Services**
+:::
+::: {}
+![](images/join-the-revolution-poster.png){fig-align="center" height="560"}
+:::
+::::
 
-- Consultations, Workshops, Grant Support
+---
+[01. Introduction]{.kicker}
 
-**Initiatives**
+# GW OSPO Services
+
+:::: {.two-col}
+::: {.small}
+
+- Consultations
+- Workshops
+- Grant Support
+
+:::
+::: {}
+![](images/join-the-revolution-poster.png){fig-align="center" height="560"}
+:::
+::::
+
+---
+
+[01. Introduction]{.kicker}
+
+# GW OSPO Initiatives
+
+:::: {.two-col}
+::: {.small}
 
 - Project Registry
 - Student Awards Programs
@@ -134,9 +157,7 @@ Cross discipline GW connections
 {{< inverse >}}
 {{< middle >}}
 
-# 02
-
-# How are we using AI?
+# 02 How are we using AI?
 
 ---
 
