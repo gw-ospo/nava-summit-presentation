@@ -1,0 +1,21 @@
+/* Deck-specific additions on top of the lexis theme. Palette follows JP
+   Helveston's deck: navy ink, teal accent. */
+.reveal .blue  { color: #00798c; }
+
+/* Small section label above a slide title, e.g. "01. Introduction". */
+.reveal .kicker {
+  display: block;
+  font-size: 55%;
+  font-weight: 700;
+  color: #00798c;
+  margin-bottom: -0.2em;
+}
+
+.reveal .two-col { display: flex; gap: 2em; align-items: flex-start; }
+.reveal .two-col > div { flex: 1; }
+.reveal .card {
+  border: 2px solid #2e4057;
+  border-radius: 8px;
+  padding: 0.6em 1em;
+}
+.reveal .caption { font-size: 50%; opacity: 0.7; }

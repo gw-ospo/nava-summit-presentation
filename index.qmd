@@ -1,0 +1,176 @@
+---
+title: "Join the Revolution: Open Source in Academia"
+subtitle: "Nava Open Source Summit"
+author: "David Lippert"
+format:
+  lexis-revealjs:
+    css: custom.css
+    include-after-body: widget-resize.html
+extensions:
+  iconify:
+    preload: iconify-preload.json
+mouse-wheel: true
+progress: false
+execute:
+  echo: false
+  warning: false
+  message: false
+footer: "Join The Revolution: Open Source in Academia © 2026 by David Lippert is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+---
+
+{{< bg-color "#2e4057" >}}
+{{< inverse >}}
+{{< center >}}
+{{< middle >}}
+{{< no-slide-number >}}
+
+[Nava Open Source Summit]{.large}
+
+# {{< meta title >}}
+
+<br>
+
+[{{< meta author >}}]{.large}
+
+---
+
+{{< bg-color "#2e4057" >}}
+{{< inverse >}}
+{{< middle >}}
+
+# 01
+
+# Introduction
+
+---
+
+[01. Introduction]{.kicker}
+
+# GW Open Source Program Office (OSPO)
+
+:::: {.two-col}
+::: {}
+**Based in the Library:** Serving all GW students, faculty, staff, & researchers.
+
+**Mission:** The OSPO fosters a culture of open collaboration by supporting researchers, educators, and students in using and developing open-source software, open data, and open access practices
+
+**Website:** <https://ospo.gwu.edu/>
+
+**Email:** <ospo@gwu.edu>
+:::
+::: {}
+![](images/ospo-workshop.png){fig-align="center" width="95%"}
+
+[OSPO Research Workshop (Summer 2024)]{.caption}
+:::
+::::
+
+---
+
+# GW OSPO Focus
+
+:::: {.two-col}
+::: {.card}
+### Education
+
+- What is open source?
+- How do I make research outputs public?
+- Can open source help me get a job?
+:::
+::: {.card}
+### Community Building
+
+Cross discipline GW connections
+
+**Local partners**
+
+- Nava
+- Civic Tech DC
+- CMS
+
+**Global partners**
+
+- CURIOSS
+- CHAOSS
+- Open Forum for AI
+- United Nations
+:::
+::::
+
+---
+
+[01. Introduction]{.kicker}
+
+# GW OSPO Events
+
+:::: {.two-col}
+::: {.small}
+**Events**
+
+- GW OSCON - March 31-April 1 2027
+- GW Coders Lunch & Learn - Wed 11:30am
+- Hackathons
+- Halloween Robot Challenge
+
+**Services**
+
+- Consultations, Workshops, Grant Support
+
+**Initiatives**
+
+- Project Registry
+- Student Awards Programs
+- Capstones, Internships, Collaborations, & Research
+- UN SDG working group, Open Forum for AI, CURIOSS Academic OSPO Network
+:::
+::: {}
+![](images/join-the-revolution-poster.png){fig-align="center" height="560"}
+:::
+::::
+
+---
+
+{{< bg-color "#2e4057" >}}
+{{< inverse >}}
+{{< middle >}}
+
+# 02
+
+# How are we using AI?
+
+---
+
+[02. How are we using AI?]{.kicker}
+
+# AI design skills review process
+
+---
+
+[02. How are we using AI?]{.kicker}
+
+# AI impact to maintaining open source
+
+---
+
+[02. How are we using AI?]{.kicker}
+
+# AI Research
+
+- Open Forum for AI
+- Trustworthy AI
+- AI & Quarto
+
+---
+
+[02. How are we using AI?]{.kicker}
+
+# AI popup museum
+
+---
+
+{{< bg-color "#2e4057" >}}
+{{< inverse >}}
+{{< middle >}}
+{{< no-slide-number >}}
+
+# Thank you

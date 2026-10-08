@@ -1,0 +1,6 @@
+.DS_Store
+
+/.luarc.json
+
+# Exported source deck
+*.pdf
