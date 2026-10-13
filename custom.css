@@ -34,6 +34,8 @@
   color: #5b6773;
   font-size: calc(15 * var(--lexis-chrome-px));
   bottom: calc(var(--lexis-lb-y) + 24 * var(--lexis-chrome-px));
+  /* Clear the bottom-left control buttons (home / overview / menu). */
+  --lexis-footer-pad: calc(64 * var(--lexis-chrome-px));
 }
 .reveal.reveal .footer p,
 .reveal.reveal .footer span { color: inherit; }
@@ -60,3 +62,34 @@
 }
 .reveal .card ul li { margin: 0.1em 0; }
 .reveal .card p { margin: 0.5em 0 0.2em; }
+
+/* Rows of images (Events, Art slides). */
+.reveal .img-row { display: flex; gap: 1em; align-items: flex-start; margin-top: 1em; }
+.reveal .img-row img { height: 230px; width: auto; margin: 0; }
+.reveal .img-row.big img { height: 490px; width: auto; }
+.reveal .img-row p { margin: 0; }
+
+/* Original -> Final comparison. */
+.reveal .compare { display: flex; align-items: center; justify-content: center; gap: 2em; }
+.reveal .compare img { height: 520px; width: auto; margin: 0; }
+.reveal .compare .caption { font-size: 65%; opacity: 0.8; margin-top: 0.1em; }
+.reveal .compare p { margin: 0; text-align: center; }
+.reveal .compare .arrow { font-size: 200%; color: #8d96a3; }
+
+/* Quarto file-format comparison. */
+.reveal .two-col > .callout-box {
+  flex: 0 0 auto; margin-left: auto;
+  border: 2px solid #2e4057; padding: 0.3em 0.6em; text-align: center; font-size: 110%;
+}
+.reveal .formats { display: flex; align-items: flex-end; justify-content: space-evenly; gap: 0.6em; margin-top: 0.2em; }
+.reveal .formats > div { flex: 0 0 auto; text-align: center; }
+.reveal .formats img { height: 260px; width: auto; margin: 0; }
+.reveal .formats p { margin: 0; }
+.reveal .mult { font-weight: 700; color: #2e4057; }
+.reveal .red { color: #d1495b; font-weight: 700; }
+
+/* Slide 4: lift the cards clear of the footer. */
+.reveal .cards-up { margin-top: -1.2em; }
+
+/* Links on dark (inverse) slides. */
+.reveal section.inverse a { color: #8fd3e0; }

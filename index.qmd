@@ -57,8 +57,7 @@ footer: "[Join the Revolution: Open Source in Academia](https://gw-ospo.github.i
 **Email:** <ospo@gwu.edu>
 :::
 ::: {}
-![](images/ospo-workshop.png){fig-align="center" width="95%"}
-[OSPO Research Workshop (Summer 2024)]{.caption}
+![](images/ospo-donuts.jpg){fig-align="center" height="560"}
 :::
 ::::
 
@@ -68,7 +67,7 @@ footer: "[Join the Revolution: Open Source in Academia](https://gw-ospo.github.i
 
 # GW OSPO Focus
 
-:::: {.two-col}
+:::: {.two-col .cards-up}
 ::: {.card}
 ### Education
 
@@ -103,16 +102,24 @@ Cross discipline GW connections
 # GW OSPO Events
 
 :::: {.two-col}
-::: {.small}
+::: {}
 
+::: {.small}
 - GW OSCON - March 31-April 1 2027
 - GW Coders Lunch & Learn - Wed 11:30am
 - Hackathons
-- Halloween Robot Challenge
+- Halloween Robot Challenge - Oct 23rd
+- Academic Open Source Summit - Dec 2026
+:::
+
+::: {.img-row}
+![](images/oscon-conference.jpg)
+![](images/oscon-keynotes.jpg)
+:::
 
 :::
 ::: {}
-![](images/join-the-revolution-poster.png){fig-align="center" height="560"}
+![](images/halloween-robot-challenge.png){fig-align="center" height="580"}
 :::
 ::::
 
@@ -131,7 +138,8 @@ Cross discipline GW connections
 
 :::
 ::: {}
-![](images/join-the-revolution-poster.png){fig-align="center" height="560"}
+![](images/ospo-workshop.jpg){fig-align="center" width="95%"}
+[OSPO Research Workshop (Summer 2024)]{.caption}
 :::
 ::::
 
@@ -144,13 +152,22 @@ Cross discipline GW connections
 :::: {.two-col}
 ::: {.small}
 
-- Project Registry
+- Student Ambassadors
 - Student Awards Programs
-- Capstones, Internships, Collaborations, & Research
-- UN SDG working group, Open Forum for AI, CURIOSS Academic OSPO Network
+- Open Source Project Registry
+- GW Open Source Conference (OSCON)
+- Stakeholder meetings
+- Research Projects
+- GW Open Source Projects
+- Industry Partner Program
+- OSPO Fellow Program
+- OSPO Internships
+- External Collaborations
+
 :::
 ::: {}
-![](images/join-the-revolution-poster.png){fig-align="center" height="560"}
+![](images/ospo-ambassadors.jpg){fig-align="center" width="95%"}
+[2025/2026 GW OSPO Ambassadors]{.caption}
 :::
 ::::
 
@@ -168,11 +185,40 @@ Cross discipline GW connections
 
 # AI design skills review process
 
+::: {.compare}
+::: {}
+![](images/awards-original.jpg)
+[Original]{.caption}
+:::
+::: {.arrow}
+→
+:::
+::: {}
+![](images/awards-final.jpg)
+[Final]{.caption}
+:::
+:::
+
 ---
 
 [02. How are we using AI?]{.kicker}
 
 # AI impact to maintaining open source
+
+:::: {.two-col}
+::: {}
+
+- AI Policy?
+- How to trust new contributors?
+- Losing track of the codebase
+- Dividing the maintainer role into two positions - tech and architect
+- Trying to run & deploy for free
+
+:::
+::: {}
+![](images/sdg-checker.png){fig-align="center" width="95%"}
+:::
+::::
 
 ---
 
@@ -180,15 +226,84 @@ Cross discipline GW connections
 
 # AI Research
 
-- Open Forum for AI
-- Trustworthy AI
-- AI & Quarto
+:::: {.two-col}
+::: {.small}
+
+**OSPO Research**
+
+- OS literacy
+- AI Skills
+- NSF TRAILS
+
+**Open Forum for AI**
+
+- CMU, UT Austin, Georgia Tech, Purdue, George Washington
+- Research, Technical prototypes, Coordinating research & policy recommendations, Community engagement, Talent for service
+
+**Trustworthy AI**
+
+- Openness
+
+:::
+::: {}
+![](images/drag-drop-game.png){fig-align="center" width="95%"}
+:::
+::::
 
 ---
 
 [02. How are we using AI?]{.kicker}
 
-# AI popup museum
+# AI Research Cont. - Professor John P Helveston
+
+:::: {.two-col}
+::: {}
+
+**AI & Quarto**
+
+- Modularity
+- Efficiency
+- Correctness
+
+:::
+::: {.callout-box}
+Quarto disentangles<br>[Content]{.red} and [Format]{.blue}
+:::
+::::
+
+::: {.formats}
+::: {}
+&nbsp;
+
+![](images/format-quarto.jpg)
+:::
+::: {}
+[1.8x]{.mult}
+
+![](images/format-pdf.jpg)
+:::
+::: {}
+[4x]{.mult}
+
+![](images/format-html.jpg)
+:::
+::: {}
+[7.2x]{.mult}
+
+![](images/format-word.jpg)
+:::
+:::
+
+---
+
+[02. How are we using AI?]{.kicker}
+
+# OSPO & Art & AI
+
+:::: {.img-row .big}
+![](images/art-stickers.jpg)
+![](images/art-robot-event.jpg)
+::::
 
 ---
 
@@ -198,3 +313,11 @@ Cross discipline GW connections
 {{< no-slide-number >}}
 
 # Thank you
+
+**Website:** <https://ospo.gwu.edu/>
+
+**Email:** <ospo@gwu.edu>
+
+<br>
+
+Special thanks to **Nava**

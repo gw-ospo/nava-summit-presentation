@@ -1,6 +1,7 @@
 .DS_Store
 
 /.luarc.json
+.index.qmd.swp
 
 # Exported source deck
 *.pdf
