@@ -222,8 +222,11 @@ footer: "[Join the Revolution: Open Source in Academia](https://gw-ospo.github.i
 
 :::
 ::: {}
-![](images/sdg-checker.png){fig-align="center" width="95%"}
-[UN Sustainable Development Goals (SDGs) Classifier]{.caption}
+::: {.overlap}
+![](images/sdg-results.jpg){.back}
+![](images/sdg-checker.png){.front}
+:::
+[UN Sustainable Development Goals (SDGs) Classifier]{.caption .center-caption}
 :::
 ::::
 
