@@ -78,7 +78,7 @@ footer: "[Join the Revolution: Open Source in Academia](https://gw-ospo.github.i
 ::: {.card}
 ### Community Building
 
-Cross discipline GW connections
+**Cross discipline GW connections**
 
 **Local partners**
 
@@ -101,7 +101,7 @@ Cross discipline GW connections
 
 # GW OSPO Events
 
-:::: {.two-col}
+:::: {.two-col .wide-left}
 ::: {}
 
 ::: {.small}
@@ -119,7 +119,9 @@ Cross discipline GW connections
 
 :::
 ::: {}
+::: {.poster-up}
 ![](images/halloween-robot-challenge.png){fig-align="center" height="580"}
+:::
 :::
 ::::
 
@@ -190,8 +192,12 @@ Cross discipline GW connections
 ![](images/awards-original.jpg)
 [Original]{.caption}
 :::
-::: {.arrow}
-→
+::: {.middle-box}
+**Design skill review process**
+
+[github.com/gw-ospo/gwospo-design](https://github.com/gw-ospo/gwospo-design)
+
+[→]{.arrow}
 :::
 ::: {}
 ![](images/awards-final.jpg)
@@ -217,6 +223,7 @@ Cross discipline GW connections
 :::
 ::: {}
 ![](images/sdg-checker.png){fig-align="center" width="95%"}
+[UN Sustainable Development Goals (SDGs) Classifier]{.caption}
 :::
 ::::
 
@@ -237,8 +244,8 @@ Cross discipline GW connections
 
 **Open Forum for AI**
 
-- CMU, UT Austin, Georgia Tech, Purdue, George Washington
-- Research, Technical prototypes, Coordinating research & policy recommendations, Community engagement, Talent for service
+- CMU, UT Austin, Georgia Tech, Purdue, GW
+- Research, Technical prototypes, Policy recommendations, Community engagement, Talent for service
 
 **Trustworthy AI**
 
@@ -247,6 +254,7 @@ Cross discipline GW connections
 :::
 ::: {}
 ![](images/drag-drop-game.png){fig-align="center" width="95%"}
+[open source literacy game]{.caption}
 :::
 ::::
 
@@ -267,7 +275,7 @@ Cross discipline GW connections
 
 :::
 ::: {.callout-box}
-Quarto disentangles<br>[Content]{.red} and [Format]{.blue}
+Quarto disentangles [Content]{.red} and [Format]{.blue}
 :::
 ::::
 
@@ -301,8 +309,14 @@ Quarto disentangles<br>[Content]{.red} and [Format]{.blue}
 # OSPO & Art & AI
 
 :::: {.img-row .big}
+::: {}
 ![](images/art-stickers.jpg)
+[digital art student stickers]{.caption}
+:::
+::: {}
 ![](images/art-robot-event.jpg)
+[open source art show]{.caption}
+:::
 ::::
 
 ---

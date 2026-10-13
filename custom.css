@@ -65,7 +65,7 @@
 
 /* Rows of images (Events, Art slides). */
 .reveal .img-row { display: flex; gap: 1em; align-items: flex-start; margin-top: 1em; }
-.reveal .img-row img { height: 230px; width: auto; margin: 0; }
+.reveal .img-row img { height: 260px; width: auto; margin: 0; }
 .reveal .img-row.big img { height: 490px; width: auto; }
 .reveal .img-row p { margin: 0; }
 
@@ -79,7 +79,7 @@
 /* Quarto file-format comparison. */
 .reveal .two-col > .callout-box {
   flex: 0 0 auto; margin-left: auto;
-  border: 2px solid #2e4057; padding: 0.3em 0.6em; text-align: center; font-size: 110%;
+  border: 2px solid #2e4057; padding: 0.3em 0.6em; text-align: center; font-size: 110%; white-space: nowrap;
 }
 .reveal .formats { display: flex; align-items: flex-end; justify-content: space-evenly; gap: 0.6em; margin-top: 0.2em; }
 .reveal .formats > div { flex: 0 0 auto; text-align: center; }
@@ -93,3 +93,20 @@
 
 /* Links on dark (inverse) slides. */
 .reveal section.inverse a { color: #8fd3e0; }
+
+/* Slide 5: wider left column so the larger images fit; poster nudged up. */
+.reveal .two-col.wide-left > div:first-child { flex: 1.2; }
+.reveal .poster-up { margin-top: -50px; }
+
+/* Slide 9: label + repo link between the Original and Final posters. */
+.reveal .compare .middle-box {
+  width: 340px; text-align: center; border: 2px solid #2e4057;
+  border-radius: 8px; padding: 0.5em 0.7em; font-size: 70%;
+}
+.reveal .compare .middle-box p { margin: 0.3em 0; }
+.reveal .compare .middle-box a { word-break: break-all; font-size: 80%; }
+.reveal .compare .middle-box .arrow { font-size: 250%; color: #8d96a3; line-height: 1; }
+
+/* Slide 13: caption sits under each photo. */
+.reveal .img-row.big > div { flex: 0 0 auto; }
+.reveal .img-row.big .caption { font-size: 60%; }
